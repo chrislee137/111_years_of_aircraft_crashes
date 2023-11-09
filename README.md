@@ -1,1 +1,0 @@
-The puropse of this analysis is to examine the when, where and what of airline travel. Providing data for aircraft travelers, highlighting the worst airline, time, aircraft, and region, to book with when planning travels. The data used in this analysis is a compulation of every recored aircraft crash from 1903-2019. 
